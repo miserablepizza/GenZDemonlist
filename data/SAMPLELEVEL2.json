@@ -1,11 +1,11 @@
 {
-    "id": 57436521,
-    "name": "SAMPLELEVEL2",
-    "author": "Solo_Creator",
-    "creators": [],
-    "verifier": "Solo_Creator",
-    "verification": "https://www.youtube.com/watch?v=ISTl28wKSXc",
-    "percentToQualify": "100",
+    "id": 95355264,
+    "name": "Hot Rod",
+    "author": "Stcubing",
+    "creators": ["stcubing"],
+    "verifier": "MiserablePizza",
+    "verification": "https://www.youtube.com/watch?v=EIAhbWvtkZI",
+    "percentToQualify": "95",
     "password": "Free To Copy",
     "records": [
     ]
