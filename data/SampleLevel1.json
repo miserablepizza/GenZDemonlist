@@ -1,16 +1,16 @@
 {
-    "id": 57436521,
-    "name": "SampleLevel1",
-    "author": "LevelUploader",
-    "creators": ["Creator1", "Creator2", "Creator3"],
-    "verifier": "Verifier",
-    "verification": "https://www.youtube.com/watch?v=ISTl28wKSXc",
-    "percentToQualify": 56,
-    "password": "Not Copyable",
+    "id": 58252259,
+    "name": "Ethereal Artifice",
+    "author": "Zeroya",
+    "creators": ["Zeroya", "Helpegasus", "Sean"],
+    "verifier": "MiserablePizza",
+    "verification": "https://youtu.be/H_-8RFzsA3E?si=RD_SeqQYnrrbCYgV",
+    "percentToQualify": 60,
+    "password": "Copyable",
     "records": [
         {
-            "user": "Sample_Victor_1",
-            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "user": "MiserablePizza",
+            "link": "https://youtu.be/H_-8RFzsA3E?si=RD_SeqQYnrrbCYgV",
             "percent": 100,
             "hz": 360
         }
