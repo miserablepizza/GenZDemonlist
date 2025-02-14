@@ -3,16 +3,10 @@
     "name": "VIRTUE",
     "author": "Varse",
     "creators": ["Varse"],
-    "verifier": "Inexistent",
+    "verifier": "MiserablePizza",
     "verification": "https://youtu.be/HEBLAagyAGI?si=cURRWJ7uUrif8nNc",
     "percentToQualify": "42",
     "password": "idk",
     "records": [
-        {
-            "user": "MiserablePizza",
-            "link": "https://youtu.be/S4_83rE3wps?si=nPfH9Oyliuxs08S5",
-            "percent": 100,
-            "hz": 144
-        }
     ]
 }
