@@ -8,5 +8,11 @@
     "percentToQualify": 40,
     "password": "i dont fucking know",
     "records": [
+        {
+            "user": "Vmaster",
+            "link": "https://youtu.be/KR36dgHilPE?si=nqYsCvLSO5R7ahZF",
+            "percent": 51,
+            "hz": 60
+        }
     ]
 }
