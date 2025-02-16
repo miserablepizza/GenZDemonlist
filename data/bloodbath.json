@@ -9,8 +9,14 @@
     "password": "i dont fucking know",
     "records": [
         {
+            "user": "sliome",
+            "link": "https://www.youtube.com/watch?v=MJUOIoeW1oE",
+            "percent": 100,
+            "hz": 360
+        },
+        {
             "user": "Vmaster",
-            "link": "https://youtu.be/B0OFp_26VRM?si=Yn0BxlsjbefK7H4i",
+            "link": "https://youtu.be/Pbr_TqktF5c?si=h3Wp2mpslTsIJGnB",
             "percent": 27,
             "hz": 60
         }
