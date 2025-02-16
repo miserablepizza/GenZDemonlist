@@ -8,5 +8,11 @@
     "percentToQualify": 27,
     "password": "again, i dont fucking know",
     "records": [
+        {
+            "user": "MiserablePizza",
+            "link": "https://youtu.be/h3UbXXLfpZI?si=ymS94xpgeO_RN__t",
+            "percent": 100,
+            "hz": 360
+        }
     ]
 }
