@@ -1,24 +1,12 @@
 {
-    "id": 73289291,
-    "name": "Delirium Tremens",
-    "author": "Vadi",
-    "creators": ["Vadi"],
+    "id": 61644725,
+    "name": "Edens Blessing",
+    "author": "Subwoofer",
+    "creators": ["Subwoofer"],
     "verifier": "MiserablePizza",
-    "verification": "https://youtu.be/YuhB6eJT3yk?si=n1MQjQ1_ZJCsLBRD",
+    "verification": "https://youtu.be/1YlvYKK0b4E?si=86rfCwyUkel_kbhI",
     "percentToQualify": 50,
-    "password": "again, i dont fucking know",
+    "password": "i dont fucking know",
     "records": [
-        {
-            "user": "Neekso",
-            "link": "https://youtu.be/EsfLwdaWW6s?si=VHOvdVxGH0NqfQHn",
-            "percent": 100,
-            "hz": 60
-        },
-        {
-            "user": "JK Reverse",
-            "link": "https://youtu.be/yeyRVRrfEn4?si=w9UYPJzjwz1qF9-L",
-            "percent": 83,
-            "hz": 60
-        }
     ]
 }
