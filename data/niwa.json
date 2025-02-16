@@ -1,1 +1,18 @@
-
+{
+    "id": 87425029,
+    "name": "Niwa",
+    "author": "Teno",
+    "creators": ["idk"],
+    "verifier": "Vmaster",
+    "verification": "https://youtu.be/DMDEAHZw1eM?si=psAlFjcLCG9dDDFf",
+    "percentToQualify": 42,
+    "password": "i dont fucking know",
+    "records": [
+        {
+            "user": "Miserablepizza",
+            "link": "https://youtu.be/B0OFp_26VRM?si=Yn0BxlsjbefK7H4i",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
