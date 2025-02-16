@@ -1,18 +1,12 @@
 {
-    "id": 87425029,
-    "name": "Niwa",
-    "author": "Teno",
+    "id": 63775846,
+    "name": "Forbidden isle",
+    "author": "Sillow",
     "creators": ["idk"],
-    "verifier": "Vmaster",
-    "verification": "https://youtu.be/DMDEAHZw1eM?si=psAlFjcLCG9dDDFf",
+    "verifier": "MiserablePizza",
+    "verification": "https://youtu.be/o6l-b1CXBSU?si=NbTVZ4p80GESf0l8",
     "percentToQualify": 42,
-    "password": "i dont fucking know",
+    "password": "idk",
     "records": [
-        {
-            "user": "Miserablepizza",
-            "link": "https://youtu.be/B0OFp_26VRM?si=Yn0BxlsjbefK7H4i",
-            "percent": 100,
-            "hz": 360
-        }
     ]
 }
