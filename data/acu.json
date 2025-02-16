@@ -1,12 +1,18 @@
 {
-    "id": 20761188,
+    "id": 61079355,
     "name": "Acu",
     "author": "neigefeu",
     "creators": ["neigefeu"],
     "verifier": "MiserablePizza",
-    "verification": "",
+    "verification": "https://youtu.be/Qh9jVQcgUjk?si=Rq6G637cBp0IHpWu",
     "percentToQualify": 50,
     "password": "again, i dont fucking know",
     "records": [
+        {
+            "user": "Neekso",
+            "link": "https://youtu.be/LN_4K0w-pJE?si=EoTUe4wKwcx04WOH",
+            "percent": 100,
+            "hz": 60
+        }
     ]
 }
