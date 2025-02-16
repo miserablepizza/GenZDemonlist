@@ -1,1 +1,18 @@
-
+{
+    "id": 69010770,
+    "name": "Dark Odyssey",
+    "author": "JonathanGD",
+    "creators": ["the goat jonathangd"],
+    "verifier": "Neekso",
+    "verification": "https://youtu.be/nj6wVNymJTc?si=jEDCnvF4MapzSc-r",
+    "percentToQualify": 50,
+    "password": "i dont fucking know",
+    "records": [
+        {
+            "user": "Vmaster",
+            "link": "https://www.twitch.tv/vmaster000/clip/ProtectiveEndearingAlmondNerfBlueBlaster-gnnfGTD7EdkQJcoB?filter=clips&range=all&sort=time",
+            "percent": 59,
+            "hz": 60
+        }
+    ]
+}
